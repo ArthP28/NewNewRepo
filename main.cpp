@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Arthur Pisanko"<<endl;
+    cout<<"Arthur Lech Pisanko"<<endl;
     return 0;
 }
