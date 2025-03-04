@@ -3,6 +3,10 @@ using namespace std;
 
 int main()
 {
-    cout<<"Arthur Lech Pisanko"<<endl;
+    PrintName(2025);
     return 0;
+}
+
+void PrintName(int year){
+    cout<< "Arthur Lech Pisanko (" << (year - 2004) << ")" <<endl;
 }
