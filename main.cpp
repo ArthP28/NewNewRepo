@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"GitHub Demo"<<endl;
+    cout<<"Arthur Pisanko"<<endl;
     return 0;
 }
