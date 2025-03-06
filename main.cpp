@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+void PrintName(int year);
+
 int main()
 {
     PrintName(2025);
